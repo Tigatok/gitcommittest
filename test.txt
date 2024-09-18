@@ -2,3 +2,4 @@ test text!
 feature 1 changes
 feature 2 changes
 feature 3 change 1st commit
+feature 3 change 2nd commit
