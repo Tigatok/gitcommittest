@@ -3,3 +3,4 @@ feature 1 1st commit
 feature 1 2nd commit
 feature 2 1st commit
 feature 2 2nd commit
+feature 3 1st commit
